@@ -1,3 +1,5 @@
+import xarray as xr
+
 def data_sub(data,lon_min,lon_max,lat_min,lat_max):
     
     '''Define a box between lon_min lon_max lat_min and lat_max and 
