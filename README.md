@@ -4,10 +4,11 @@
 
 ## Installation 
 Create an environment :
-'''
-bash
+'''bash
 conda env create -n Artools_env
 '''
+
+
 Then install Artools : 
 
 source activate Artools_env
