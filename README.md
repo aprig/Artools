@@ -4,7 +4,7 @@
 
 Artools is just some usefull scripts to compute interannual anomalies of a timeserie and take subdomains of a large dataset.
 
-## Example 
+## Example data_sub.py
 ```bash
 import xarray as xr
 import numpy as np
