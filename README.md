@@ -1,5 +1,9 @@
 # Artools
 
+## What is it about? 
+
+Artools is just some usefull scripts to compute interannual anomalies of a timeserie and take subdomains of a large dataset.
+
 
 
 ## Installation 
