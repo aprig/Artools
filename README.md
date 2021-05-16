@@ -5,7 +5,7 @@
 ## Installation 
 Create an environment :
 ```bash
-conda env create -n Artools_env
+conda create -n Artools_env
 ```
 
 
